@@ -2,4 +2,4 @@ Este es un texto de prueba
 
 para el curso de git y github
 
-espero aprobar este curso y nunca parar de aprender
+voy a aprobar este curso y nunca parar de aprender con platzi
