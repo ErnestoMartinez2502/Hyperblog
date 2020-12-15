@@ -2,6 +2,6 @@ Este es un texto de prueba
 
 para el curso de git y github
 
-voy a aprobar este curso y nunca parar de aprender con platzi
+espero aprobar este curso y nunca parar de aprender
 
-Hoy hablaremos de su vida y futuro profesional
+mañana hablaremos de su vida laboral
