@@ -3,3 +3,5 @@ Este es un texto de prueba
 para el curso de git y github
 
 voy a aprobar este curso y nunca parar de aprender con platzi
+
+Hoy hablaremos de su vida
