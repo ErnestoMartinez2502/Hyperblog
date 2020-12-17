@@ -1,0 +1,7 @@
+Este es un texto de prueba
+
+para el curso de git y github
+
+espero aprobar este curso y nunca parar de aprender
+
+mañana hablaremos de su vida laboral
